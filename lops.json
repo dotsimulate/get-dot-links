@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "generated_at": "2026-08-24T23:41:52.081130+00:00",
+  "endpoints": {
+    "registry": "https://downloads.lopstudio.dev/registry",
+    "download": "https://downloads.lopstudio.dev/download",
+    "get": "https://downloads.lopstudio.dev/get"
+  },
+  "products": {
+    "lops": {
+      "display_name": "LOPs",
+      "latest": "0.3.0"
+    },
+    "streamdiffusiontd": {
+      "display_name": "StreamDiffusionTD",
+      "latest": "0.4.0"
+    }
+  },
+  "minimum_installer": "0.1.0",
+  "notices": []
+}
