@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-24T23:41:52.081130+00:00",
+  "generated_at": "2026-08-25T06:37:11.833347+00:00",
   "endpoints": {
     "registry": "https://downloads.lopstudio.dev/registry",
     "download": "https://downloads.lopstudio.dev/download",
@@ -16,6 +16,6 @@
       "latest": "0.4.0"
     }
   },
-  "minimum_installer": "0.1.0",
+  "minimum_installer": "0.2.0",
   "notices": []
 }
